@@ -18,3 +18,6 @@ The dashboard further leverages a chart to showcase exit customer patterns based
 
 >Examine the historical trends of churn over time, considering factors like the customer's date of joining (DOJ) and other variables. This analysis can help in understanding how churn rates have evolved and whether any specific periods exhibit higher churn
 
+### Dashborad
+
+
