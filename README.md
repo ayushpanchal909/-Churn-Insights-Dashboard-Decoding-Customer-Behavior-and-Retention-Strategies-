@@ -1,4 +1,4 @@
-### Customer-Churn-Dashboard
+### Churn Insights Dashboard: Decoding Customer Behavior and Retention Strategies
 
 In the BI project focused on customer churn analysis, the journey began with importing the dataset and ensuring its cleanliness. Essential DAX measures and calculated columns were introduced to bolster the analytical capabilities. Establishing relationships between diverse tables, including active customer data, bank churn, credit card usage, customer information, exit patterns, and demographic aspects like gender and geography, was the next step.
 
