@@ -38,6 +38,9 @@ There exists a positive correlation between Exit Customers and the count of Tota
 "Fair" credit type exhibited the highest Exit Customers at 685, significantly surpassing "Excellent" with a 435.16% difference. The range of Exit Customers across all five credit types spanned from 128 to 685. This data highlights the considerable variation in exit patterns based on customers' credit scores, where "Fair" credit type takes precedence while "Excellent" maintains the lowest exit count.
 <br>
 <br>
+<img width="177" alt="5" src="https://github.com/ayushpanchal909/Customer-Churn-Dashboard/assets/142341609/78786083-2f03-4822-a93c-61dea7bcaa47">
+
+<br>
 Exit Customers among credit card holders totaled 1424, surpassing non-credit card holders at 613. This comparison signifies that credit card holders exhibit a notably higher tendency to exit, indicating potential differences in retention strategies and customer behaviors between the two groups.
 <br>
 <br>
